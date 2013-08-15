@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kronparser (0.0.4)
+    mail (2.5.4)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    mime-types (1.24)
+    mini_portile (0.5.1)
+    net-irc (0.0.9)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    polyglot (0.3.3)
+    treetop (1.4.14)
+      polyglot
+      polyglot (>= 0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kronparser
+  mail
+  net-irc
+  nokogiri
