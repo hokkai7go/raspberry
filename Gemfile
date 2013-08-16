@@ -5,3 +5,4 @@ gem "mail"
 gem "net-irc"
 gem "nokogiri"
 gem "kronparser"
+gem 'whenever', :require => false
