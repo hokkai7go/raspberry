@@ -24,3 +24,6 @@ irc = TestBot.new("irc.livedoor.ne.jp",
                   :channel => "#hokkai7go")
 
 irc.start
+
+sleep(180)
+exit
